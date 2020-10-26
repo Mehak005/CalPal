@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "65995188991",
+    "firebase_url": "https://fitbit-b5fa9.firebaseio.com",
+    "project_id": "fitbit-b5fa9",
+    "storage_bucket": "fitbit-b5fa9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:65995188991:android:a1c7fae4e79a20120fbaca",
+        "android_client_info": {
+          "package_name": "com.example.fitbit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "65995188991-02q4vhck8a2r9ohqimt4lro6rppu351h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzHgeN41gEbQX-sVzIFoj77-20yWJHBGQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "65995188991-02q4vhck8a2r9ohqimt4lro6rppu351h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
